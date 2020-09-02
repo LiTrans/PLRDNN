@@ -1,5 +1,6 @@
 # Urban Flux:
 Ubiquitous sensors network for sensing multimodal traffic in real-time for complete streets.
+
 General reference: "Farooq, B., Beaulieu, A., Ragab, M., Ba, V.T.(2015) Ubiquitous Monitoring of Pedestrian Dynamics: Exploring Wireless Ad Hoc Network of Multi-Sensor Technologies, IEEE SENSORS, Busan, Korea. November 2015."
 
 ## Projects:
